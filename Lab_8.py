@@ -1,4 +1,4 @@
-#Вариант 5
+# Вариант 5
 import numpy as np
 import random
 import cv2
